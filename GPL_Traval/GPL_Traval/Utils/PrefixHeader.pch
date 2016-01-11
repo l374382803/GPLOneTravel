@@ -1,0 +1,42 @@
+//
+//  PrefixHeader.pch
+//  GPL_Traval
+//
+//  Created by qianfeng on 15/11/7.
+//  Copyright © 2015年 qianfeng. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+
+#import "MBProgressHUD.h"
+
+#define MAS_SHORTHAND
+
+//define this constant if you want to enable auto-boxing for default syntax
+#define MAS_SHORTHAND_GLOBALS
+
+#import "Masonry.h"
+#import <JSONModel.h>
+#import "Macro.h"
+#import <AFNetworking.h>
+#import "UIImageView+AFNetworking.h"
+
+#import "SCASystem.h"
+#import "SCNavigation.h"
+#import "WGWHelper.h"
+#import <MJRefresh.h>
+/**
+ *  scrollview
+ */
+#import "SDCycleScrollView.h"
+
+#endif /* PrefixHeader_pch */

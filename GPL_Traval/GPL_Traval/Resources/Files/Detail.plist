@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>iconTitle</key>
+		<string>http://h.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=3379b1922f2eb938f86072a0b40bee50/d043ad4bd11373f0e59cddeca40f4bfbfbed0425.jpg</string>
+		<key>title</key>
+		<string>蓝白交织的童话世界--爱琴海</string>
+		<key>textDetail</key>
+		<string>爱琴海(Αιγαίο Πέλαγος)，世界著名旅游胜地，位于希腊半岛和小亚细亚半岛之间，属地中海的一部分。爱琴海是黑海沿岸国家通往地中海以及大西洋、印度洋的必经水域，在航运和战略上具有重要地位。爱琴海名称的起源有各种解释，一个可能的词源是Αιγ- ，意思是波浪，因此Αιγαίο Πέλαγος意思是波浪起伏的海。它不仅是西方欧洲文明的摇篮，对世界各国旅客来说，更是浪漫情调旅程的象征。</string>
+		<key>hotVisitTitle</key>
+		<array>
+			<dict>
+				<key>listTit</key>
+				<string>梦幻希腊-——情迷爱琴海</string>
+				<key>iconPath</key>
+				<string>http://f.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=b150785033fa828bc52e95b19c762a51/d31b0ef41bd5ad6ed0aa98bf81cb39dbb6fd3c17.jpg</string>
+				<key>text</key>
+				<string>爱琴那岛是距离雅典最近的一个岛屿。真正让爱琴那岛扬名的是拯救希腊的萨拉密斯。岛上建于公元前6世纪末5世纪初的阿菲亚神庙，是希腊古典时代后期典型代表建筑。</string>
+			</dict>
+			<dict>
+				<key>listTit</key>
+				<string>米克诺斯岛</string>
+				<key>iconPath</key>
+				<string>http://d.hiphotos.baidu.com/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=1e31a2c520a446236ac7ad30f94b196b/3b87e950352ac65c632bbeccfbf2b21193138a67.jpg</string>
+				<key>text</key>
+				<string>以风车作标志的米克诺斯岛是爱琴海群岛的代名词。米克诺斯岛是希腊南部基克拉泽群岛中的一座，是爱琴海上最享盛名的度假岛屿之一。岛上居民很少，每年大约半年的非旅游时间，岛上相当安静。四月以后，旅游季节开始了，来自世界各地的游客就像候鸟一样络绎不绝地飞来岛上，享受地中海的阳光和海滩。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>iconTitle</key>
+		<string>http://d.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=c41a2713ad345982d187edc06d9d5ac8/ac6eddc451da81cb6a1c30aa5266d016082431da.jpg</string>
+		<key>title</key>
+		<string>浪漫之都--巴黎</string>
+		<key>textDetail</key>
+		<string>巴黎（Paris），是法兰西共和国的首都，欧洲大陆第一大城市，欧洲第二大城市。巴黎位于法国北部巴黎盆地的中央，横跨塞纳河两岸。建都已有1400多年的历史。在自中世纪以来的发展中，一直保留过去的印记，某些街道的布局历史悠久，也保留了统一的风格。今天的巴黎是一座举世闻名的旅游胜地，以它绚丽多彩的魅力每天吸引无数来自各大洲的宾客与游人。巴黎是世界著名的时尚与浪漫之都，巴黎是历史名城、会议之都、创意重镇和美食乐园。巴黎市民为这座梦想之城带来缤纷活力，形成花都独一无二的印记。</string>
+		<key>hotVisitTitle</key>
+		<array>
+			<dict>
+				<key>listTit</key>
+				<string>埃菲尔铁塔的日出</string>
+				<key>iconPath</key>
+				<string>http://www.wmpic.me/wp-content/uploads/2013/07/20130730220429494-215x185.jpg</string>
+				<key>text</key>
+				<string>埃菲尔铁塔（法语：La Tour Eiffel；英语：Eiffel Tower）矗立在塞纳河南岸法国巴黎的战神广场，它是世界著名建筑、法国文化象征之一、巴黎城市地标之一、巴黎最高建筑物。埃菲尔铁塔于1889年建成，得名于设计它的著名建筑师、结构工程师古斯塔夫·埃菲尔。</string>
+			</dict>
+			<dict>
+				<key>listTit</key>
+				<string>凯旋门</string>
+				<key>iconPath</key>
+				<string>http://f.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=4172ead6800a19d8df0e8c575293e9ee/2f738bd4b31c87012c460181277f9e2f0608ffe1.jpg</string>
+				<key>text</key>
+				<string>巴黎凯旋门，即雄狮凯旋门（法语：Arc de triomphe di l&apos;Étoile），位于法国巴黎的戴高乐广场中央，香榭丽舍大街的西端。凯旋门正如其名，是一座迎接外出征战的军队凯旋的大门。它是现今世界上最大的一座圆拱门，位于巴黎市中心戴高乐广场中央的环岛上面。这座广场也是配合雄狮凯旋门而修建的，因为凯旋门建成后，给交通带来了不便，于是就在19世纪中叶，环绕凯旋门一周修建了一个圆形广场及12条道路，每条道路都有40～80米宽，呈放射状，就像明星发出的灿烂光芒，因此这个广场又叫明星广场。凯旋门也称为“星门”。凯旋门就位于著名的香榭丽舍大街的尽头。凯旋门的设计人原来是夏格朗与赖蒙，因意见不合，两年后赖蒙辞去，于是凯旋门最后按照夏格朗的设计完成。由法国国家古迹中心负责维护修缮与管理。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>iconTitle</key>
+		<string>http://c.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=f8419f417bf40ad101e9cfb136457aba/a6efce1b9d16fdfa5d6b6e97b48f8c5494ee7b40.jpg</string>
+		<key>title</key>
+		<string>秀美中国,人间天堂--丽江</string>
+		<key>textDetail</key>
+		<string>丽江古城，又名“大研古镇”，坐落在云南省丽江市大研镇，地理坐标为东经100°14′，北纬26°52′。海拔2400余米。是一座风景秀丽，历史悠久和文化灿烂的名城，也是中国罕见的保存相当完好的少数民族古镇。丽江古城是第二批被批准的中国历史文化名城之一，也是中国仅有的以整座古城申报世界文化遗产获得成功的两座古县城之一。丽江古城有着绚丽丰富多彩的地方民族习俗和娱乐活动，纳西古乐、东巴仪式、占卜文化、古镇酒吧以及纳西族火把节等等，别具一格。丽江古城充分体现了中国古代城市建设的成就，是中国民居中具有鲜明特色和风格的类型之一。</string>
+		<key>hotVisitTitle</key>
+		<array>
+			<dict>
+				<key>listTit</key>
+				<string>木府风情</string>
+				<key>iconPath</key>
+				<string>http://a.hiphotos.baidu.com/baike/c0%3Dbaike116%2C5%2C5%2C116%2C38/sign=60a8fe5dbf3eb13550cabfe9c777c3b6/4610b912c8fcc3ce235f1b869145d688d53f20ec.jpg</string>
+				<key>text</key>
+				<string>“北有故宫，南有木府”。跨过清泉汩汩的流水小桥，突见一座木牌坊赫然立于土木瓦顶居民之间。跨进朱红色的木府大门，眼前豁然开朗，一片开阔的地面上巍然耸立一座金碧辉煌的宫殿，汉白玉基座雕刻精美，那恢宏的气势，使人恍若置身于皇宫之内。如果说在丽江古城我们看到的是丽江世俗生活的一面的话，那么在木府，我们将翻阅到一个在西南地区曾经辉煌一时的大土司家族的兴衰史。</string>
+			</dict>
+			<dict>
+				<key>listTit</key>
+				<string>五凤楼</string>
+				<key>iconPath</key>
+				<string>http://e.hiphotos.baidu.com/baike/c0%3Dbaike150%2C5%2C5%2C150%2C50/sign=01f6be07b1b7d0a26fc40ccfaa861d6c/8d5494eef01f3a298137077b9a25bc315d607c8c.jpg</string>
+				<key>text</key>
+				<string>其位于丽江市黑龙潭公园北端，始建于明万历二十九年（1601），1983年被公布为云南省重点文物保护单位。楼高20米，为层甍三重担结构，基呈亚字形，楼台三叠，屋担八角，三层共24个飞檐，就象五只彩凤展翅来仪，故名五凤楼。全楼共有32棵柱子落地，其中四棵中柱各高12米，柱上部分用斗架手法建成，楼尖贴金实顶。</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>iconTitle</key>
+		<string>http://d.hiphotos.baidu.com/baike/c0%3Dbaike180%2C5%2C5%2C180%2C60/sign=f4d94a16251f95cab2f89ae4a87e145b/38dbb6fd5266d0166af7d140972bd40734fa35ef.jpg</string>
+		<key>title</key>
+		<string>千年古镇,历史瑰宝--周庄</string>
+		<key>textDetail</key>
+		<string>周庄，是一座江南小镇，有“中国第一水乡”之誉[1]  ，是国家首批5A级景区。周庄始建于1086年（北宋元祐元年），因邑人周迪功先生捐地修全福寺而得名。春秋时为吴王少子摇的封地，名为贞丰里。周庄位于苏州昆山市，是江南六大古镇之一，于2003年被评为中国历史文化名镇。[2]  周庄历史悠久，是典型的江南水乡风貌，有独特的人文景观，是中国水乡文化和吴地汉文化的瑰宝。</string>
+		<key>hotVisitTitle</key>
+		<array>
+			<dict>
+				<key>listTit</key>
+				<string>沈万三故居</string>
+				<key>iconPath</key>
+				<string>http://d.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=8e41db4d3af33a878a600848a7357b5d/cc11728b4710b9129384ae83c3fdfc0392452201.jpg</string>
+				<key>text</key>
+				<string>周庄沈万三故居简介：沈万三故居，位于周庄镇东垞。是周庄富贵园根据历史资料和历史原貌，在原址精心设计修建的仿明式建筑。故居参照沈万三致富的周庄古镇各种传说、经商的坎坷历史、一生的传奇经历和沈家生活起居的场景，通过铜像、砖雕、漆雕、实景模型、版面、布景箱、泥塑、连环画等艺术手法，予以展示。</string>
+			</dict>
+			<dict>
+				<key>listTit</key>
+				<string>张厅</string>
+				<key>iconPath</key>
+				<string>http://b.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=1d97844a3b292df583cea447dd583705/b219ebc4b74543a90b5fbba91f178a82b901140a.jpg</string>
+				<key>text</key>
+				<string>张厅原名怡顺堂，建于明代，清初转让张姓，改为玉燕堂，俗称张厅。 张厅前后七进，房屋70余间，占地1800多平方米，雕梁画栋。厅旁箬泾河穿屋而过，正所谓“桥自前门进，船从家中过”。作为殷富人家的宅第，张厅历经五百多年沧桑，但气派依旧。墙上悬挂着字画，—副对联的上联是“轿从门前进”、下联是“船自家中过”，对联十分贴切地写出了张厅的建筑特色。</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

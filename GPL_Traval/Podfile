@@ -1,0 +1,22 @@
+# Uncomment this line to define a global platform for your project
+ platform :ios, ‘7.0’
+# Uncomment this line if you're using Swift
+# use_frameworks!
+pod 'AFNetworking'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'SDCycleScrollView'
+
+pod 'JSONModel'
+target 'GPL_Traval' do
+
+end
+
+target 'GPL_TravalTests' do
+
+end
+
+target 'GPL_TravalUITests' do
+
+end
+
